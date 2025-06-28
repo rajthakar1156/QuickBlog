@@ -257,3 +257,5 @@ export const footer_data = [
           links: ["Instagram", "Twitter", "Facebook", "YouTube"]
       }
   ];
+
+  
